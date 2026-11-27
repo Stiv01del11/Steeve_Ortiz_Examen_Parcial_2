@@ -1,0 +1,5 @@
+E001;Ana Torres;15;18;12
+E002;Luis Perez;8;10;12
+E003;Marta Ruiz;20;18;19
+E004;Carlos Gomez;11;11;11
+E005;Sofia Morales;9;10;11
